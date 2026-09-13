@@ -1,5 +1,5 @@
 # Mini-Project
-# 🍽️ Zomato Analytics: End-to-End Data Analysis Project
+# 🍽️ Zomato Data Analysis Project
 
 ## 🚀 Project Overview
 
